@@ -1,0 +1,6 @@
+[
+    { "name" : "AC1 Phone1", "xtype" : "phone", "price" : 200.05, "rating" : 3.8,"warranty_years" : 1, "available" : true },
+    { "name" : "AC2 Phone2", "xtype" : "phone", "price" : 147.21, "rating" : 1,"warranty_years" : 3, "available" : false },
+    { "name" : "AC3 Phone3", "xtype" : "phone", "price" : 150, "rating" : 2,"warranty_years" : 1, "available" : true },
+    { "name" : "AC4 Phone4", "xtype" : "phone", "price" : 50.20, "rating" : 3,"warranty_years" : 2, "available" : true }
+]
